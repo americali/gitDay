@@ -1,5 +1,5 @@
 Ceci est un test.
 
-Ceci n'est pas un test finalement.
+Et bien voila le texte modifi�.
 
 Ceci est toujour un test
