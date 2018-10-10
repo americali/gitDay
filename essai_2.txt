@@ -1,5 +1,5 @@
 Ceci est un test.
 
-Ce test n'est malgré tout pas fini.
+Ce test n'est malgrï¿½ tout pas fini.
 
 Ceci est toujour un test
